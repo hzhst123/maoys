@@ -1,5 +1,5 @@
 ﻿{
-"spider":"clan://maoys/0608.jar",
+"spider":"https://hzhst123.github.io/maoys/0608.jar",
 
 "sites":[
 // ⇩⇩ jar包内东东 ⇩⇩
