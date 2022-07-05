@@ -1,7 +1,7 @@
 // 配置地址 --> https://gitea.com/lin/TVBox/raw/branch/main/bc.json
 
 {
-"spider":"https://hzhst123.github.io/maoys/0701.jar",
+"spider":"https://hzhst123.github.io/maoys/0704.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 
 
