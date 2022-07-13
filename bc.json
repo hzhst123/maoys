@@ -566,32 +566,7 @@
         ]
       }
     },
-     {
-    "name": "parwix1",
-    "type": 0,
-    "url": "https://jx.parwix.com:4433/player/?url=",
-    "ext": {
-        "flag": [
-            "qq",
-            "腾讯",
-            "qiyi",
-            "爱奇艺",
-            "奇艺",
-            "youku",
-            "优酷",
-            "mgtv",
-            "芒果",
-            "letv",
-            "乐视",
-            "pptv",
-            "PPTV",
-            "sohu",
-            "bilibili",
-            "哔哩哔哩",
-            "哔哩"
-        ]
-      }
-    },
+    
 {"name":"旋风","type":1,"url":"https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","ext":{"flag":["xfyun"]}},
 {"key":"多多","name":"多多[EXO]","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/from/ddzy/","playUrl":"json:http://qiqi.520say.cn/json/dd.php?url=","searchable":1,"filterable":1,"categories":[]},
 {"name":"16","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
