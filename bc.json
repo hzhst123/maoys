@@ -348,6 +348,8 @@
 
 ## 广大侠 资源网采集
 #官方解析
+{"key":"红牛","name":"红牛","type": 1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"json:https://www.tutukiki.com/m3u8/?url=","searchable": 1,"filterable": 1,"categories":[]},
+{"key":"csp_xml___木子看剧","name":"🐝木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"天堂资源","name":"天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
