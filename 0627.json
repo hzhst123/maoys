@@ -6,6 +6,7 @@
 
 
 "sites":[
+{"key":"csp_apptt_图图影视","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.1.95:7788/"},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys","name": "🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
