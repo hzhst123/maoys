@@ -21,7 +21,9 @@
   "biaotihou": "</div>", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
-
+  "gengxinqian": "module-item-note\">",
+  "gengxinhou": "</div>",
+  
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
@@ -54,7 +56,7 @@
   "daoyanhou": "</div>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
   "zhuyanhou": "</div>", //主演后关键词
-  "juqingqian": "class=\"module-info-introduction-content show-desc\"", //剧情前关键词
+  "juqingqian": "line-height: 20px;\">", //剧情前关键词
   "juqinghou": "</p>", //剧情后关键词
 
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
