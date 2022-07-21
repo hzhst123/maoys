@@ -4,7 +4,7 @@
     "cateNode": "//nav[contains(@class,'top_bar')]/a",
     "cateName": "/text()",
     "cateId": "/@href",
-    "cateIdR": "(\\S+)",
+    "cateIdR": "",
     "cateManual": {},
     "homeVodNode": "//div[@class='v_img']",
     "homeVodName": "/a/@title",
