@@ -4,7 +4,7 @@
     "cateNode": "//section[contains(@class,'grid_box')]",
     "cateName": "/header/h3/text()",
     "cateId": "/header/a/@href",
-    "cateIdR": "(\\S+).html",
+    "cateIdR": "",
     "cateManual": {},
     "homeVodNode": "//div[@class='v_img']",
     "homeVodName": "/a/@title",
