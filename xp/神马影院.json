@@ -1,4 +1,6 @@
 {
+	////div[contains(@class,'MacPlayer embed-responsive')]//td/iframe/@src
+	//https://player.6080kan.cc/player/play.php?url=pRoo00oE5lRo000oo000oijkVkkVIx56G4lvcm6r3SRSHdjeFIJDvklzOo000osHoo00o4k7OqPOoCFw2xRxNlGxQrUjU2YAH0LGbCBaZo000ojXxMEo000orisbUo000ornxQP1Ny8O0O0O
 	"author": "匿名20220725",
 	"ua": "Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/99.0",
     // 首页地址 用于获取 分类和首页推荐
