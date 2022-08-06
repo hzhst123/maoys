@@ -98,7 +98,7 @@
 	
 	
     // 搜索地址
-	"searchUrl": "https://juztv.com/vodsearch/-------------/?wd={wd}",
+	"searchUrl": "https://juztv.com/vodsearch/-------------/?wd={wd}&submit=",
     // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
 	"scVodNode": "//ul[contains(@class,'stui-vodlist')]/li",
 	"scVodName": "/div/a/@title",
