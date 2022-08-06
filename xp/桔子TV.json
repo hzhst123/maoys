@@ -56,10 +56,10 @@
 	"dtCate": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(),'类型')]/following-sibling::*/text()",
 	"dtCateR": "",
     // 视频年份
-	"dtYear": "",
+	"dtYear": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(),'年份')]/following-sibling::*/text()",
 	"dtYearR": "",
     // 视频地区
-	"dtArea": "",
+	"dtArea": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(),'地区')]/following-sibling::*/text()",
 	"dtAreaR": "",
     // 视频状态
 	"dtMark": "//div[contains(@class,'stui-content__detail')]/p[contains(@class,'data hidden-sm')]/text()",
