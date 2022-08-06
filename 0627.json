@@ -5,6 +5,7 @@
 
 
 "sites":[
+{"key":"桔子TV(XP)","name":"桔子TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/桔子TV.json"},
 {"key":"蓝光影院","name":"蓝光影院（SP）","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"影视工厂","name":"影视工厂（SP）","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "神马影院","name": "神马影院sp","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
