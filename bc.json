@@ -499,6 +499,9 @@
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
     },
+
+{"name":"泡沫","type":1,"url":"https://jx.paoomo.com/jiami.php?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}},
+
     {
     "name":"parwix",
     "type":0,
