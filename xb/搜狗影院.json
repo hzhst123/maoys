@@ -46,8 +46,8 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"module\">",
-  "bfjiequshuzuhou": "id=\"glist-3\"",
+  "bfjiequshuzuqian": "class=\"box",
+  "bfjiequshuzuhou": "</main>",
 
   "zhuangtaiqian": "class=\"video-info-item\">",
   "zhuangtaihou": "</div>",
@@ -58,9 +58,9 @@
   "juqingqian": "vod_content\"><span>",
   "juqinghou": "<a",
 
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
+  "bfyshifouercijiequ": "1",
+  "bfyjiequqian": "id=\"glist-3\"",
+  "bfyjiequhou": "id=\"glist-2\"",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
   "bfbiaotiqian": "<span>",
