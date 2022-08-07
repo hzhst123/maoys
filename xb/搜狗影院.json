@@ -49,7 +49,7 @@
   "bfjiequshuzuqian": "class=\"box",
   "bfjiequshuzuhou": "</main>",
 
-  "zhuangtaiqian": "class=\"video-info-item\">",
+  "zhuangtaiqian": "class=\"video-info-itemtitle\">",
   "zhuangtaihou": "</div>",
   "daoyanqian": "导演：</span>",
   "daoyanhou": "</div>",
@@ -59,8 +59,8 @@
   "juqinghou": "<a",
 
   "bfyshifouercijiequ": "1",
-  "bfyjiequqian": "id=\"glist-3\"",
-  "bfyjiequhou": "id=\"glist-2\"",
+  "bfyjiequqian": "class=\"module\">",
+  "bfyjiequhou": "<script",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
   "bfbiaotiqian": "<span>",
