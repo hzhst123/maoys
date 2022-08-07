@@ -1,4 +1,5 @@
 {"sites":[
+{"key":"csp_biubiu_搜狗影院","name":"搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xb/搜狗影院.json"},
 {"key":"喵乐(XP)","name":"喵乐(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/喵乐.json"},
 {"key":"桔子TV(XP)","name":"桔子TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/桔子TV.json"},
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
