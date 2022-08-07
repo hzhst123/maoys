@@ -46,8 +46,8 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"box",
-  "bfjiequshuzuhou": "</main>",
+  "bfjiequshuzuqian": "class=\"scroll-content\">",
+  "bfjiequshuzuhou": "</div>",
 
   "zhuangtaiqian": "class=\"video-info-itemtitle\">",
   "zhuangtaihou": "</div>",
@@ -58,9 +58,9 @@
   "juqingqian": "剧情：</span>",
   "juqinghou": "</div>",
 
-  "bfyshifouercijiequ": "1",
-  "bfyjiequqian": "class=\"module\">",
-  "bfyjiequhou": "</div>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "",
+  "bfyjiequhou": "",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
   "bfbiaotiqian": "<span>",
