@@ -50,7 +50,7 @@
 {"key":"csp_xpath_喵乐","name":"喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/喵乐.json"},
 {"key":"csp_biubiu_AB影院(XB)","name":"AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/AB影院.json"},
 {"key":"csp_biubiu_voflix","name":"✌️VOFLIX HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/VOFLIX.json"},
-{"key": "9E03","name": "9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
+//{"key": "9E03","name": "9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 //{"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/555dy.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/shdy.json"},
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/LIBVIO.json"},
