@@ -44,8 +44,9 @@
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"bfb62a63941241dc978c445b111b178b"},
 {"key":"csp_biubiu_hdmoli","name":"🚀hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/hdmoli.json"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "JRKAN直播赛事","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://hzhst123.github.io/maoys/xp/dj.json"},
-{"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+//{"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 
+{"key":"csp_xpath_美剧虫","name":"美剧虫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/美剧虫.json"},
 {"key":"csp_xpath_喵乐","name":"喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/喵乐.json"},
 {"key":"csp_biubiu_AB影院(XB)","name":"AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/AB影院.json"},
 {"key":"csp_biubiu_voflix","name":"✌️VOFLIX HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/VOFLIX.json"},
