@@ -5,7 +5,7 @@
 
 
 "sites":[
-{"key":"555电影","name":"🎁555电影XP","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"},
+{"key":"555电影xp","name":"🎁555电影XP","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"},
 {"key":"555电影","name":"🎁555电影SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_juhuang","name":"剧荒TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xp/juhuang.json"},
