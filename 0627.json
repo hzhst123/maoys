@@ -1,6 +1,6 @@
 
 {
-"spider":"https://hzhst123.github.io/maoys/dy555-2.jar",
+"spider":"https://hzhst123.github.io/maoys/tangsan0817.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oemhzdDEyMy5naXRodWIuaW8vbWFveXMvdHYvbGl2ZS50eHQ="]}]}],
 
 
@@ -10,6 +10,8 @@
 {"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_juhuang","name":"剧荒TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xp/juhuang.json"},
 
+{"key": "csp_Yj1211","name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Anime1","name": "🌸小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"喵乐(XP)","name":"喵乐(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/喵乐.json"},
 {"key":"桔子TV(XP)","name":"桔子TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/桔子TV.json"},
 {"key":"蓝光影院","name":"蓝光影院（SP）","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -17,12 +19,14 @@
 {"key": "神马影院","name": "神马影院sp","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "3EDY","name": "☘️3EDY(EXO)","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Tkys","name": "📡天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_hbys","name":"🐞简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys","name": "🐞酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
