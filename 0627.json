@@ -44,6 +44,62 @@
 {"key": "Ikan","name": "🐞Ikan(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Buka","name":"📒经常卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
+	{
+			"key": "csp_QQ",
+			"name": "🐧腾讯（官）",
+			"type": 3,
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, {
+			"key": "csp_MGTV",
+			"name": "🥭芒果（官）",
+			"type": 3,
+			"api": "csp_MGTV",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, {
+			"key": "csp_IQIYI",
+			"name": "🥝爱奇艺（官）",
+			"type": 3,
+			"api": "csp_IQIYI",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "youku",
+			"name": "👑优酷（官）",
+			"type": 0,
+			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
+		},
+		{
+			"key": "PpTV",
+			"name": "📺PPTV（官）",
+			"type": 0,
+			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]
+		},
+		{
+			"key": "souhu",
+			"name": "🦊搜狐（官）",
+			"type": 0,
+			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
+		},
+		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_BBB","name":"🅱️哔哩哔哩-B站(SP)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://hzhst123.github.io/maoys/xp/Bili.json"},
 //{"key":"csp_BBB","name":"🅱️哔哩哔哩-B站(SP)","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/Bili.json"},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"2c9a7fe3ca0a41a29f3491056e8d0796"},
