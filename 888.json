@@ -1,7 +1,7 @@
   // 配置地址 --> clan://localhost/TVBox/box.json
 
 {
-"spider":"https://hzhst123.github.io/maoys/888.jar.jar",
+"spider":"https://hzhst123.github.io/maoys/888.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
