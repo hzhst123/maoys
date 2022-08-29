@@ -15,6 +15,15 @@
 			"searchable": 1,
 			"ext": ""
 		},
+	{
+            "key":"t4public",
+            "name":"T4公共",
+            "type":4,
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=37c74fe78bd548a8a6b30c627273be8e&timeout=10",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+},
 {"key":"555电影xp","name":"🎁555电影XP","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xp/555dy.json"},
 {"key":"555电影","name":"🎁555电影SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/555dy.json"},
 {"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
