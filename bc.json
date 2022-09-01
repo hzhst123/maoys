@@ -19,7 +19,7 @@
 {"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"key":"555电影","name":"🎁555电影SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hzhst123.github.io/maoys/xp/555dy.json"},
 {"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=37c74fe78bd548a8a6b30c627273be8e&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Yj1211","name": "📽️直播合集","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Anime1","name": "🌸小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -53,6 +53,62 @@
 {"key":"csp_Nbys","name":"📺泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"哔嘀影视(cl)","name": "哔嘀影视(cl)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xp/biditd.json"},
 
+{
+			"key": "csp_QQ",
+			"name": "🐧腾讯（官）",
+			"type": 3,
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, {
+			"key": "csp_MGTV",
+			"name": "🥭芒果（官）",
+			"type": 3,
+			"api": "csp_MGTV",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, {
+			"key": "csp_IQIYI",
+			"name": "🥝爱奇艺（官）",
+			"type": 3,
+			"api": "csp_IQIYI",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "youku",
+			"name": "👑优酷（官）",
+			"type": 0,
+			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
+		},
+		{
+			"key": "PpTV",
+			"name": "📺PPTV（官）",
+			"type": 0,
+			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]
+		},
+		{
+			"key": "souhu",
+			"name": "🦊搜狐（官）",
+			"type": 0,
+			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
+		},	
+	
 {"key":"csp_biubiu_hdmoli","name":"🚀hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/hdmoli.json"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "JRKAN直播赛事","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://hzhst123.github.io/maoys/xp/dj.json"},
 //{"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
