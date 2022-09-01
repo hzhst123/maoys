@@ -78,37 +78,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "youku",
-			"name": "👑优酷（官）",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
-		},
-		{
-			"key": "PpTV",
-			"name": "📺PPTV（官）",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]
-		},
-		{
-			"key": "souhu",
-			"name": "🦊搜狐（官）",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
-		},	
-	
+			
 {"key":"csp_biubiu_hdmoli","name":"🚀hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hzhst123.github.io/maoys/xb/hdmoli.json"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "JRKAN直播赛事","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://hzhst123.github.io/maoys/xp/dj.json"},
 //{"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
